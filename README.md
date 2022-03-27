@@ -16,9 +16,9 @@ void set_cursor(bool visible)
 ```
 <br />
 
-*Without set_cursor :*
+*With set_cursor as true :*
 ![without](/assets/without_set_cursor.gif)
 <br />
 
-*With set_cursor :*
+*With set_cursor as false :*
 ![with](/assets/with_set_cursor.gif)
