@@ -1,5 +1,3 @@
-<h3 align="center">Donut</h3>
-
 ## It's just a [donut](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
 *Tips :*
